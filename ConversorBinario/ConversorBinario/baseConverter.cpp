@@ -2,7 +2,7 @@
 
 //there are many ways to do it easily, but I wanted
 //to make a code that converted decimal to hexadecimal 
-//and binary like humans usually do
+//and binary like my teacher did
 
 #include <iostream>
 #include <cmath>
